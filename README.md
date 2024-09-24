@@ -56,7 +56,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/bouzayenilyes/modern_business_website.git
+git clone https://github.com/bouzayenilyes/Viditor_landing_page.git
 cd Viditor-App-Landing
 ```
 
